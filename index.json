@@ -1,0 +1,15 @@
+{
+  "name": "Zangetsu2 Sources",
+  "description": "A clean catalog of Zangetsu-compatible JavaScript providers, prioritizing public-domain, Creative Commons, and otherwise authorized sources.",
+  "sources": [
+    {
+      "id": "ia-licensed-animation",
+      "name": "Internet Archive — Licensed Animation",
+      "version": "0.1.0",
+      "type": "anime",
+      "lang": "en",
+      "file": "providers/internet-archive-licensed-animation.js",
+      "nsfw": false
+    }
+  ]
+}
